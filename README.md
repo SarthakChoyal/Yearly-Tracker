@@ -5,6 +5,10 @@ Introducing our innovative app that helps you track the progress of the year by 
 
 Download Now: Files Attached to Repository
 
+## How to use
+
+Download the installer and run the app. (File located in C:\Users\"Username"\Programfiles\Sarthak-Enterprises)
+
 
 ## Screenshots
 
