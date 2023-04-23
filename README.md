@@ -8,7 +8,7 @@ Download Now: Files Attached to Repository
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](305shots_so.png)
 
 
 ## Acknowledgements
