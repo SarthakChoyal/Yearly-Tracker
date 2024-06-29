@@ -4,7 +4,7 @@
 Introducing our innovative app that helps you track the progress of the year by displaying the percentage completed and the current day count, with the added bonus of customizable options to make your experience unique and personalized. Made with Python, our app is reliable and user-friendly, allowing you to stay on top of your goals and accomplishments with ease.
 
 Download Now: Files Attached to Repository
-> :warning: **You are viewing the old version**: [Version 2 is out now!]()
+> :warning: **You are viewing the old version**: [Version 2 is out now!](https://github.com/SarthakChoyal/Yearly-Tracker-V2/tree/main)
 
 ## How to use
 
