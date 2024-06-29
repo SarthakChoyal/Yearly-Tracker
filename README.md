@@ -23,5 +23,5 @@ Download the installer and run the app. (File located in C:\Users\"Username"\Pro
  - If there are any issues join our [Discord Server](https://discord.gg/GAJe275wBH)
 ## Optimizations
 
-- Currently only supports Windows 
+- Currently only supports Windows 10/11
 
